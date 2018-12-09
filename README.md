@@ -60,7 +60,7 @@ git clone https://github.com/corps-g/asemot_openmc.git
 
 ## Schedule
 
-The workshop is scheduled to begin at 2 pm.  The following is 
+The workshop is scheduled to begin at 1:30 pm.  The following is 
 a coarse breakdown of topics
 
 | Topic               | Duration |
