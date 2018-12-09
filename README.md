@@ -43,6 +43,12 @@ robertsj@sampo ~/ $ conda install openmc
 For other ways to install OpenMC, please 
 see the [Quick Install Guide](https://openmc.readthedocs.io/en/stable/quickinstall.html).
 
+All examples will be studied using data obtained by executing the 
+script `openmc-make-test-data` included with OpenMC.  This script
+installs the NNDC distribution of ACE files at 293 K and the 
+multipole data needed for on-the-fly Doppler broadening of resonance-region
+data.
+
 Note, installation on Windows is not well supported at this time, and 
 folks without Linux or OS X are encouraged to install a suitable
 interface for remotely connecting to the off-site cluster.  One such
