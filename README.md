@@ -5,7 +5,8 @@ Sensors and Modeling Techniques for Nuclear Reactor Safety aims
 to introduce some basics of the [OpenMC Monte Carlo code](https://openmc.readthedocs.io/en/stable/). 
 
 
-OpenMC is an open-source code originally written by Paul Romano at MIT to
+OpenMC is an open-source code originally written 
+by [Paul Romano](https://www.anl.gov/profile/paul-k-romano) at MIT to
 provide a test bench for massively parallel computing while retaining a
 realistic representation of physics.  Development continues at MIT 
 in the [Computational Reactor Physics Group](https://crpg.mit.edu/) and other
@@ -21,7 +22,9 @@ Software Carpentry](https://katyhuff.github.io/2018-12-15-mumbai/) that
 attendees are **strongly encouraged** to attend;
 register [here](https://goo.gl/forms/OCjAryhRSBTS0HaT2)!
 
-Attendees should also have a basic understanding of reactor physics.
+Attendees should also have a basic understanding of reactor physics and
+associated topics.  Specific examples include an understanding of 
+cross sections, mean free paths, and the four-factor formula.
  
 ## Access to OpenMC
 
