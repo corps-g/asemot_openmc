@@ -14,7 +14,7 @@ organizations.  OpenMC is equipped with a rich Python API, which makes it
 fun to use, and its connection to a variety of nuclear data makes it
 reasonably fast to set up.
 
-## Prerequistes
+## Prerequisites
 
 Attendees should have a working knowledge of the Linux command line and Python.
 For attendees without such experience, there is an [earlier workshop on
@@ -63,7 +63,7 @@ git clone https://github.com/corps-g/asemot_openmc.git
 
 ## Schedule
 
-The workshop is scheduled to begin at 2 pm.  The following is 
+The workshop is scheduled to begin at 1:30 pm.  The following is 
 a coarse breakdown of topics
 
 | Topic               | Duration |
