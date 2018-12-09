@@ -13,7 +13,7 @@ organizations.  OpenMC is equipped with a rich Python API, which makes it
 fun to use, and its connection to a variety of nuclear data makes it
 reasonably fast to set up.
 
-## Prerequistes
+## Prerequisites
 
 Attendees should have a working knowledge of the Linux command line and Python.
 For attendees without such experience, there is an [earlier workshop on
