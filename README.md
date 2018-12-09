@@ -50,6 +50,13 @@ is described as part of the preparation for the
 interfaces include [Putty](https://www.putty.org/) 
 and [MobaXterm](https://mobaxterm.mobatek.net/)
 
+The sample inputs and other materials we'll use in the workshop can 
+be obtained by cloning this repository via
+
+```
+git clone https://github.com/corps-g/asemot_openmc.git
+```
+
 
 ## Schedule
 
