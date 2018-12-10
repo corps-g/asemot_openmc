@@ -45,8 +45,6 @@ def make_xml():
     cladding.fill = zirconium #
     cladding.region = +fuel_outer & -clad_outer
     
-
-    
     coolant = openmc.Cell(3, 'coolant')
     coolant.fill = h2o
     coolant.region = +left & -right & +bottom & -top & +clad_outer

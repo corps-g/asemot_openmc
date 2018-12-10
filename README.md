@@ -44,10 +44,17 @@ For other ways to install OpenMC, please
 see the [Quick Install Guide](https://openmc.readthedocs.io/en/stable/quickinstall.html).
 
 All examples will be studied using data obtained by executing the 
-script `openmc-make-test-data` included with OpenMC.  This script
+script `openmc-get-nndc-data` and `openmc-get-multipole-data` 
+included with OpenMC.  These scripts
 installs the NNDC distribution of ACE files at 293 K and the 
 multipole data needed for on-the-fly Doppler broadening of resonance-region
-data.
+data.  On your own machines, make sure to set the environment variable
+`OPENMC_CROSS_SECTIONS` to whereever `cross_sections.xml` is located.
+
+Note: the most recent version of OpenMC (`develop` branch on GitHub) has
+eliminated `openmc-get-multipole-data` but added `openmc-make-test-data`.  This
+latter script can be used by itself to get the NNDC data, multipole data, and
+more. 
 
 Note, installation on Windows is not well supported at this time, and 
 folks without Linux or OS X are encouraged to install a suitable
