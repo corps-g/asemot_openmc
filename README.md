@@ -81,10 +81,10 @@ a coarse breakdown of topics
 
 | Topic               | Duration |
 |---------------------|----------|
+| Ensure/Debug Remote Access       | 15 min   |
 | Overview of OpenMC (key features) | 15 min   |
 | A basic pin cell (materials, geometries, settings, and statepoints)    | 30 min   |
 | A basic assembly (universes, lattices, and tallies)   | 45 min   |
-| Multigroup data  (cross-section generation and multigroup mode)   | 30 min   |
 
 
 
