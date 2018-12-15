@@ -59,7 +59,7 @@ settings.particles = 1000
 settings.export_to_xml()
 
 #%% Run OpenMC
-openmc.run(thread=1)
+openmc.run(threads=1)
 
 #%% View output
 f = h5py.File('statepoint.100.h5', 'r') 
